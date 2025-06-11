@@ -1,4 +1,4 @@
-#adapters.diccionarios.py
+#adapters/diccionarios.py
 
 # Proyecto desarrollado como parte del Trabajo de Fin de Grado (TFG)
 # Curso de Adaptación al Grado en Ingeniería Informática - UNIR
