@@ -1,5 +1,10 @@
 # db/tables.py
 
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado (TFG)
+# Curso de Adaptación al Grado en Ingeniería Informática - UNIR
+# Autor: [Alberto Toledo Escrihuela]
+# Año: 2025
+
 from unicodedata import numeric
 from sqlalchemy import create_engine, Numeric, Column, Integer, String, Boolean, Date, BLOB, Time, Text, ForeignKey, extract
 from sqlalchemy.ext.declarative import declarative_base
