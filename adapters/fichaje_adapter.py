@@ -1,5 +1,10 @@
 # adapters/fichaje_adapters.py
 
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado (TFG)
+# Curso de Adaptación al Grado en Ingeniería Informática - UNIR
+# Autor: [Alberto Toledo Escrihuela]
+# Año: 2025
+
 from sqlalchemy import desc
 from objects.fichajes import Fichaje as Elemento
 from db.tables import FichajeDB as ObjeCTDB, db_session
