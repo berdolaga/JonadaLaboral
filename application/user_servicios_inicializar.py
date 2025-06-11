@@ -1,5 +1,10 @@
 # application/user_servicio_inicializar.py
 
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado (TFG)
+# Curso de Adaptación al Grado en Ingeniería Informática - UNIR
+# Autor: [Alberto Toledo Escrihuela]
+# Año: 2025
+
 from ports.usuario_ports import UserPort
 from ports.empresa_ports import EmpresaPort
 from ports.horario_ports import HorarioPort
