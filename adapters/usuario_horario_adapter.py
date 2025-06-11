@@ -1,6 +1,10 @@
 # adapters/usuario_horario_adapters.py
 
-#from ports.user_repositorio import UserRepositorio
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado (TFG)
+# Curso de Adaptación al Grado en Ingeniería Informática - UNIR
+# Autor: [Alberto Toledo Escrihuela]
+# Año: 2025
+
 from objects.usuario_horarios import UsuarioHorario as Elemento
 from db.tables import Usuario_HorarioDB as ObjeCTDB, db_session
 
