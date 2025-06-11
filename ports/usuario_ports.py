@@ -1,5 +1,10 @@
 # ports/user_ports.py
 
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado (TFG)
+# Curso de Adaptación al Grado en Ingeniería Informática - UNIR
+# Autor: [Alberto Toledo Escrihuela]
+# Año: 2025
+
 from adapters.user_adapter import UserAdapter as Adaptador
 from objects.usuarios import User as Elemento
 
