@@ -1,5 +1,10 @@
 # application/listados.py
 
+# Proyecto desarrollado como parte del Trabajo de Fin de Grado (TFG)
+# Curso de Adaptación al Grado en Ingeniería Informática - UNIR
+# Autor: [Alberto Toledo Escrihuela]
+# Año: 2025
+
 from datetime import date, datetime, timedelta
 from application.user_servicios_inicializar import user_port, fichar_port, empresa_port, usuario_horario_port, horario_port
 
