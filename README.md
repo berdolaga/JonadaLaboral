@@ -1,3 +1,5 @@
+**Este proyecto ha sido desarrollado como parte del Trabajo de Fin de Grado (TFG) en el Curso de Adaptación Grado de en Ingeniería Informática de la Universidad Internacional de La Rioja (UNIR).**
+
 Debe crearse el archivo .env en el mismo directorio raiz, con el contenido siguiente:
 
 TELEGRAM_API_TOKEN= # Aqui se pone el Token de Telegram, ejemplo: "1234567890:ABCDEFGHIJKxxxxxxxxxLMNOPQRSTUVWXYZ" sin comillas#
