@@ -1,4 +1,4 @@
-**Este proyecto ha sido desarrollado como parte del Trabajo de Fin de Grado (TFG) en el Curso de Adaptación Grado de en Ingeniería Informática de la Universidad Internacional de La Rioja (UNIR).**
+**Este proyecto ha sido desarrollado como parte del Trabajo de Fin de Grado (TFG) en el Curso de Adaptación al Grado de en Ingeniería Informática de la Universidad Internacional de La Rioja (UNIR).**
 
 Debe crearse el archivo .env en el mismo directorio raiz que boy.py o confi.py, con el contenido siguiente:
 
